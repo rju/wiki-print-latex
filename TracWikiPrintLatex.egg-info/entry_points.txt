@@ -1,0 +1,3 @@
+[trac.plugins]
+wikiprintlatex.wikiprintlatex = wikiprintlatex.wikiprintlatex
+

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: TracWikiPrintLatex
+Version: 0.1
+Summary: A plugin for exporting Trac wiki pages as Latex files, based on Trac2Latex and Wikiprint plugin.
+Home-page: UNKNOWN
+Author: Gregor Hoops
+Author-email: grh@informatik.uni-kiel.de
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
