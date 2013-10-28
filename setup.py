@@ -13,9 +13,7 @@ setup(name = 'TracWikiPrintLatex',
     url = '',
     entry_points = {
         'trac.plugins': [
-#            'wikiprintlatex.web_ui = wikiprintlatex.web_ui',
-#            'wikiprintlatex.formats = wikiprintlatex.formats',
-            'wikiprintlatex.wikiprintlatex = wikiprintlatex.wikiprintlatex',
+            'wikiprintlatex.wikiprintlatex = wikiprintlatex.wikiprintlatex'
         ],
     },
 )

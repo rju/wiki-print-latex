@@ -20,7 +20,5 @@ wikiprintlatex/TexLatexTableMacro.py
 wikiprintlatex/TexLatexUsePkgMacro.py
 wikiprintlatex/TexTimestampMacro.py
 wikiprintlatex/__init__.py
-wikiprintlatex/api.py
-wikiprintlatex/formats.py
 wikiprintlatex/web_ui.py
 wikiprintlatex/wikiprintlatex.py
